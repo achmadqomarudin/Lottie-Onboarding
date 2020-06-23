@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![Gradle Version](https://img.shields.io/badge/gradle-3.5-green.svg)](https://docs.gradle.org/current/release-notes)
 [![Awesome Kotlin Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/KotlinBy/awesome-kotlin)
+[![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 
 A beautiful Onboarding ViewPager Examples in Kotlin using Lottie Animations.
 
